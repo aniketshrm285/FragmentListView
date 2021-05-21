@@ -4,3 +4,5 @@ First fragment contains a checked list view. User can select item(s) from the li
   1. Adding an item to the list. 
   2. Removing item(s) from the list. 
 Data is shared between the fragments using a shared view model.
+
+[Link](https://drive.google.com/file/d/1haKTqSX7hvCpcxcNfOeJWBkFVujpAu3R/view?usp=sharing) to the apk file.
